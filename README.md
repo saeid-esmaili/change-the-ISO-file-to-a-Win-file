@@ -1,2 +1,2 @@
 # change-the-ISO-file-to-a-Win-file
-This update corrects the terminology from 'ISO file' to 'Windows file' in the software update process. The change ensures accurate and clear instructions for installing or updating Windows OS
+This adjustment involves updating the terminology used in a software update process. Originally referring to an 'ISO file', the terminology is corrected to 'Windows file' to better reflect the file type used in the context of updating or installing Windows operating system software. This change ensures clarity and accuracy in instructions provided for software installation or updates.
